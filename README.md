@@ -6,3 +6,5 @@ afficher la timeline. Plus d'infos sur comment j'en suis arrivé là dans morpho
 webchan_vvnx.py: fichier principal, il inclut sockets_vvnx.py
 connect.py: juste un hello world pour tester connect/signal/slot
 
+
+
